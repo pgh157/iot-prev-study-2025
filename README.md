@@ -64,7 +64,7 @@
 - 설치 확인
     - cmd(명령프롬프트) 또는 powershell 실행 후 python 입력
 
-- VS Code 확장 > Python 검색색
+- VS Code 확장 > Python 검색
 - 확장자 .py(thon)
 - 탐색기 > day01 폴더 생성
 - py01_first.py 파일 생성
